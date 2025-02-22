@@ -27,4 +27,6 @@ print(secret_message[0][3],
       secret_message[3][12:6:-1],
       secret_message[4][20:15:-1])
 
+# зачет !!! Все супер
+
 

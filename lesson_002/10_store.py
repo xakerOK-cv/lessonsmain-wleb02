@@ -97,7 +97,7 @@ print('Chairs = ',All_chairs_quantity,',price',All_chairs_cost,'rub')
 
 
 
-
+$ ВСЕ СУПЕР ВИДНО ПОРАБОТАЛ) 
 
 
 

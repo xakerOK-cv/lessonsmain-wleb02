@@ -45,8 +45,37 @@ store = {
 #         подсчет количества товара
 #         подсчет стоимости товара
 #     вывод на консоль количества и стоимости товара на складе
+Key_list = []
+for i in goods:
+    # print(i,':',goods[i])
+    Key_list.append(goods[i])
+z = 0
+Store_list = []
+for x in store:
+    # print(store[Key_list[z]])
+    Store_list.append(store[Key_list[z]])
+    z += 1
+# print('1',Store_list[0])
+# print('2',Store_list[1])
+# print('3',Store_list[2])
+# print('4',Store_list[3])
+# key_price = 'price'
+# key_quantity = 'quantity'
+#  j = 0
+# Keys_list = []
+# for h in Store_list:
+#     print(h)
+#     Keys_list.append(Store_list[])
+#     j += 1
 
-# TODO здесь ваш код
+# s = 0
+# g = 0
+# for f in Store_list:
+#     print(Store_list[s[g]])
+
+
+
+
 
 
 
